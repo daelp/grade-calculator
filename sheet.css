@@ -1,0 +1,25 @@
+body {
+    background-color: lightsalmon;
+}
+#table{
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    padding: 30px;
+
+}
+
+h1{
+    text-align: center;
+    padding: 30px;
+
+}
+
+table{
+    text-align: center;
+    border-spacing: 20px;
+}
+
+#oneHundred{
+    text-align: center;
+}
